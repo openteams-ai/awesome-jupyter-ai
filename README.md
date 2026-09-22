@@ -138,6 +138,7 @@ Claude Code, Codex and the other CLI agents run in a terminal. These extensions 
 - [AI Code Assistants](https://github.com/stellarshenson/jupyterlab_ai_code_assistants_extension) 🟢 - Start, resume, fork and clean up CLI sessions for Claude Code, Codex, Kimi, Gemini and DeepSeek from one side panel per assistant. It replaces the author's separate `jupyterlab_claude_code_extension` and `jupyterlab_codex_extension` packages and migrates their settings.
 - [jupyterlab-codex](https://github.com/oy-ilho/jupyterlab-codex) 🟢 - Codex CLI in a sidebar, with a server extension to keep the session alive.
 - [Yukti](https://github.com/sizhky/jupyterlab-yukti) 🟢 - A `%%ask` magic that sends everything visible above the current cell, markdown and outputs included, to the Codex CLI.
+- [xtralab](https://github.com/jtpio/xtralab) 🟢 - Meta-package that reshapes JupyterLab around CLI agents, with an agent launcher and an MCP server for interacting with the JupyterLab interface and performing actions on files and notebooks. It comes with a set of extensions and opinionated defaults, and also offers a desktop app for macOS and Linux.
 - [jupyter-codex](https://github.com/yanndebray/jupyterlab-codex) 🟡 - Opens an OpenAI Codex chat in the left sidebar.
 - [nb-margin](https://pypi.org/project/nb-margin/) 🟡 - Annotate cells with comments, then send them all to Claude Code. Claude Code edits the `.ipynb` file and the notebook reloads. MIT, copyright Anthropic, and the repository it points at is not public.
 
