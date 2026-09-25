@@ -1,6 +1,6 @@
 # Awesome Jupyter AI [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> AI extensions for JupyterLab and Jupyter Notebook 7.
+> AI extensions for JupyterLab and Jupyter Notebook 7 | [Blog post](https://openteams.com/awesome-jupyter-ai-extensions/)
 
 We are excited to see the Jupyter extension ecosystem thrive in the era of AI. The variety of ideas and implementations demonstrates the utility of the extension platform and the API stability offered by JupyterLab. This list collects over a hundred AI extensions for JupyterLab and Jupyter Notebook 7. They range from chat panels and inline completers to teaching tools and the building blocks of Jupyter AI. Each one installs into a JupyterLab or Notebook 7 you already run.
 
