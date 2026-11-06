@@ -4,7 +4,7 @@ Thanks for taking the time. A pull request that adds one extension is the most u
 
 ## Listing criteria
 
-An entry has to install into JupyterLab or Jupyter Notebook 7, as a front end extension, a server extension, or both, and it has to call an AI model. Language models are most of it, but speech, image and in-browser models count too. A kernel, a CLI or an MCP server can go under *Beyond the JupyterLab UI* if a notebook user runs it next to Jupyter, and an IPython magic or extension goes under *IPython*.
+An entry has to install into JupyterLab or Jupyter Notebook 7, as a front end extension, a server extension, or both, and it has to call an AI model. Language models are most of it, but speech, image and in-browser models count too. A kernel, a CLI or an MCP server can go under *Beyond the JupyterLab UI* if a notebook user runs it next to Jupyter, and an IPython magic or extension goes under *IPython*. An agent skill goes under *Agent skills* when its instructions are about working with notebooks or JupyterLab.
 
 What is deliberately left out:
 
