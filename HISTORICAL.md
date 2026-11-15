@@ -22,7 +22,7 @@ No commit for over two years. These were written against the first generation of
 - [gpt-magic](https://github.com/biff-ai/gpt-magic) - GPT magic commands for a cell.
 - [codex-chat-notebook](https://github.com/oeway/codex-chat-notebook) - Data science by chat, written against the original OpenAI Codex.
 - [LabPilot](https://github.com/aleksanderhan/labpilot) - Refactor, debug, explain and a semi-autonomous mode, each with its own demo GIF.
-- [JupyterLab-CodeGen](https://github.com/thaitran/JupyterLab-CodeGen) - Cell code generation with GPT-4.
+- [JupyterLab-CodeGen](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/thaitran/JupyterLab-CodeGen) - Cell code generation with GPT-4. The GitHub repository was deleted, so the link goes to the copy in Software Heritage.
 - [jupyterlab-starchat-extension](https://github.com/aolney/jupyterlab-starchat-extension) - Interface to the StarChat open model, from the brief window when that was the open alternative.
 - [jupylot](https://github.com/vrvrv/jupylot) - Error checking assistant.
 - [Notebook Copilot](https://github.com/talperetz/notebook-copilot) - `%copilot` magic that writes a whole notebook, code and markdown, from a description of the goal. Reads the cells already there for context. Last worked on in 2023.
